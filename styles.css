@@ -1,0 +1,180 @@
+.44_145 { 
+	overflow:hidden;
+}
+.web_bg { 
+	background-color:rgb(255, 255, 255);
+	width:1440px;
+	height:3414px;
+	position:absolute;
+}
+.logo_style { 
+	width:420px;
+	height:421px;
+	position:absolute;
+	left:70px;
+	top:189px;
+	background-image:url(images/logo.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.style_judultext { 
+	color:rgba(0, 0, 0, 1);
+	width:413px;
+	height:74px;
+	position:absolute;
+	left:510px;
+	top:320px;
+	font-family:THICCCBOI;
+	text-align:justified;
+	font-size:64px;
+	letter-spacing:0;
+}
+.style_subjudultext { 
+	color:rgba(0, 0, 0, 1);
+	width:860px;
+	height:92px;
+	position:absolute;
+	left:510px;
+	top:400px;
+	font-family:THICCCBOI;
+	text-align:justified;
+	font-size:40px;
+	letter-spacing:0;
+}
+.e11_8 { 
+	color:rgba(0, 0, 0, 1);
+	width:413px;
+	height:46px;
+	position:absolute;
+	left:510px;
+	top:303px;
+	font-family:THICCCBOI;
+	text-align:justified;
+	font-size:40px;
+	letter-spacing:0;
+}
+.menu1 { 
+	width:200px;
+	height:201px;
+	position:absolute;
+	left:180px;
+	top:1568px;
+	background-image:url(images/mashi_2.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.menu2 { 
+	width:201px;
+	height:202px;
+	position:absolute;
+	left:620px;
+	top:1568px;
+	background-image:url(images/mashi_3.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.menu3 { 
+	width:201px;
+	height:202px;
+	position:absolute;
+	left:1060px;
+	top:1568px;
+	background-image:url(images/mashi_4.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.namamenu { 
+	color:rgba(0, 0, 0, 1);
+	font-family:THICCCBOI;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}
+.title_deskripsi { 
+	color:rgba(0, 0, 0, 1);
+	font-family:THICCCBOI;
+	text-align:justified;
+	font-size:24px;
+	letter-spacing:0;
+}
+.newsthumbnail { 
+	width:1300px;
+	height:748px;
+	position:absolute;
+	left:70px;
+	top:715px;
+	background-image:url(images/foto.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+.e24_43 { 
+	border-radius:500px;
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:89px;
+	height:89px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.logo_image { 
+	width:89px;
+	height:89px;
+	position:absolute;
+	left:70px;
+	top:70px;
+	background-image:url(images/mashi_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+.e27_51 { 
+	color:rgba(0, 0, 0, 1);
+	width:178px;
+	height:28px;
+	position:absolute;
+	left:730px;
+	top:2681px;
+	font-family:THICCCBOI;
+	text-align:justified;
+	font-size:24px;
+	letter-spacing:0;
+}
+.titlenews{ 
+	color:rgba(0, 0, 0, 1);
+	width:420px;
+	height:42px;
+	position:absolute;
+	left:510px;
+	top:2226px;
+	font-family:THICCCBOI;
+	text-align:center;
+	font-size:36px;
+	letter-spacing:0;
+}
+.deskripsi { 
+	color:rgba(0, 0, 0, 1);
+	font-family:THICCCBOI;
+	text-align:left;
+	font-size:15px;
+	letter-spacing:0;
+}
+
+.thumbnail_berita { 
+	background-image:url(images/unsplash_iohjkjqo6e0.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+.namabrand { 
+	color:rgba(0, 0, 0, 1);
+	width:529px;
+	height:55px;
+	position:absolute;
+	left:181px;
+	top:87px;
+	font-family:THICCCBOI;
+	text-align:justified;
+	font-size:48px;
+	letter-spacing:0;
+}
